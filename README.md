@@ -56,9 +56,11 @@ Tick button      Enabled:  tick square or not
 
 2- Input section at the half right of the page shows up.
 
-3- After the inputs given, user roles chosen and enabled button ticked, the user click 'Save User' button 
+3- After the inputs given, user roles chosen and enabled button ticked or not, the user click 'Save User' button 
 
-4- Table that contains inputs of the new user shows up at the left half of the page.
+4- Table that contains inputs of the new user shows up at the left half of the page. If 'Hide Enabled User' button is ticked 
+then only enabled button ticked users' information will be shown in the table. If 'Hide Enabled User' button is not ticked all of the users will be shown
+in the table whether enabled button ticked or not during filling the input section.
 
 5- Input section at the half right of the page disappears.
 
