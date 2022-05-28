@@ -15,6 +15,7 @@ Right half of the page should include New User header row and below that there m
 Left half of the page should include an SQL like table which shows the users and information about them
 
  - Details 
+
 new User with rectangle shape +New User button on the top left of the page 
 
 rectangle shape Save User button on the top right of the page
